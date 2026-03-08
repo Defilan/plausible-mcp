@@ -1,6 +1,6 @@
 {
   "name": "plausible-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MCP server for Plausible Analytics — query your website stats from AI assistants like Claude",
   "type": "module",
   "bin": {
